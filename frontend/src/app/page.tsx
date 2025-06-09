@@ -1,10 +1,10 @@
 // import Image from "next/image";
-import NavigationBar  from "@/components/layout/NavigationBar";
+import SideBar from "@/components/layout/SideBar";
 
 export default function Home() {
   return (
     <div>
-      <NavigationBar />
+      <SideBar />
     </div>
   );
 }
